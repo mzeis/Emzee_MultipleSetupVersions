@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Emzee_MultipleSetupVersions>
+            <active>true</active>
+            <codePool>community</codePool>
+        </Emzee_MultipleSetupVersions>
+    </modules>
+</config>

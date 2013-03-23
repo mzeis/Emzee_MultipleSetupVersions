@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<config>
+	<modules>
+		<Emzee_MultipleSetupVersions>
+			<version>0.0.3</version>
+		</Emzee_MultipleSetupVersions>
+	</modules>
+	
+	<global>
+	    <resources>
+	        <dev_av_setup>
+                <setup>
+                    <module>Emzee_MultipleSetupVersions</module>
+                    <class>Emzee_MultipleSetupVersions_Model_Resource_Setup</class>
+                    <version>0.0.3</version>
+                </setup>
+            </dev_av_setup>
+            <dev_mz_setup>
+                <setup>
+                    <module>Emzee_MultipleSetupVersions</module>
+                    <class>Emzee_MultipleSetupVersions_Model_Resource_Setup</class>
+                    <version>0.0.1</version>
+                </setup>
+            </dev_mz_setup>
+        </resources>
+	</global>
+</config>
